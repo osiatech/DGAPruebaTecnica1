@@ -1,0 +1,14 @@
+C:\Users\osiam\Desktop\DGA - Prueba Tecnica\DGA - Prueba Tecnica\Domain1\bin\Debug\net8.0\Domain.DGA.deps.json
+C:\Users\osiam\Desktop\DGA - Prueba Tecnica\DGA - Prueba Tecnica\Domain1\bin\Debug\net8.0\Domain.DGA.runtimeconfig.json
+C:\Users\osiam\Desktop\DGA - Prueba Tecnica\DGA - Prueba Tecnica\Domain1\bin\Debug\net8.0\Domain.DGA.dll
+C:\Users\osiam\Desktop\DGA - Prueba Tecnica\DGA - Prueba Tecnica\Domain1\bin\Debug\net8.0\Domain.DGA.pdb
+C:\Users\osiam\Desktop\DGA - Prueba Tecnica\DGA - Prueba Tecnica\Domain1\obj\Debug\net8.0\Domain.DGA.csproj.AssemblyReference.cache
+C:\Users\osiam\Desktop\DGA - Prueba Tecnica\DGA - Prueba Tecnica\Domain1\obj\Debug\net8.0\Domain.DGA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osiam\Desktop\DGA - Prueba Tecnica\DGA - Prueba Tecnica\Domain1\obj\Debug\net8.0\Domain.DGA.AssemblyInfoInputs.cache
+C:\Users\osiam\Desktop\DGA - Prueba Tecnica\DGA - Prueba Tecnica\Domain1\obj\Debug\net8.0\Domain.DGA.AssemblyInfo.cs
+C:\Users\osiam\Desktop\DGA - Prueba Tecnica\DGA - Prueba Tecnica\Domain1\obj\Debug\net8.0\Domain.DGA.csproj.CoreCompileInputs.cache
+C:\Users\osiam\Desktop\DGA - Prueba Tecnica\DGA - Prueba Tecnica\Domain1\obj\Debug\net8.0\Domain.DGA.dll
+C:\Users\osiam\Desktop\DGA - Prueba Tecnica\DGA - Prueba Tecnica\Domain1\obj\Debug\net8.0\refint\Domain.DGA.dll
+C:\Users\osiam\Desktop\DGA - Prueba Tecnica\DGA - Prueba Tecnica\Domain1\obj\Debug\net8.0\Domain.DGA.pdb
+C:\Users\osiam\Desktop\DGA - Prueba Tecnica\DGA - Prueba Tecnica\Domain1\obj\Debug\net8.0\Domain.DGA.genruntimeconfig.cache
+C:\Users\osiam\Desktop\DGA - Prueba Tecnica\DGA - Prueba Tecnica\Domain1\obj\Debug\net8.0\ref\Domain.DGA.dll
