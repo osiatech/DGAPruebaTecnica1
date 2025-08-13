@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Application.DGA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06af12bf7b0c0b3ac90788348f6593aa754bc265")]
 [assembly: System.Reflection.AssemblyProductAttribute("Application.DGA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Application.DGA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
